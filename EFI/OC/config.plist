@@ -585,7 +585,7 @@
 			<key>AppleCpuPmCfgLock</key>
 			<false/>
 			<key>AppleXcpmCfgLock</key>
-			<false/>
+			<true/>
 			<key>AppleXcpmExtraMsrs</key>
 			<false/>
 			<key>AppleXcpmForceBoost</key>
@@ -595,7 +595,7 @@
 			<key>CustomPciSerialDevice</key>
 			<false/>
 			<key>DisableIoMapper</key>
-			<false/>
+			<true/>
 			<key>DisableLinkeditJettison</key>
 			<true/>
 			<key>DisableRtcChecksum</key>
@@ -1133,7 +1133,7 @@
 			<key>MaxBIOSVersion</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02013303GU0000JA</string>
+			<string>C02014303CD00001H</string>
 			<key>ProcessorType</key>
 			<integer>4105</integer>
 			<key>ROM</key>
@@ -1145,9 +1145,9 @@
 			<key>SystemProductName</key>
 			<string>iMac20,2</string>
 			<key>SystemSerialNumber</key>
-			<string>C02CH0EX046M</string>
+			<string>C02CJ03P046M</string>
 			<key>SystemUUID</key>
-			<string>FE1BCEB4-0DDC-4118-B56B-6CF19569E170</string>
+			<string>F3102153-1DA0-483E-943F-A08353F2FE92</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
